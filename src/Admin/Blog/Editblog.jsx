@@ -31,7 +31,7 @@ export default function EditBlog() {
       singleBlog.author === "" ||
       singleBlog.image === ""
     ) {
-      alert("Please fill all the fields in amit");
+      alert("Please fill all the fields in amit second");
       return;
     }
 
